@@ -1,0 +1,3 @@
+user: Admin	
+pass: 123456
+lưu ý tải ảnh về ổ C
